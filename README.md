@@ -1,5 +1,5 @@
-# First-practice
-First practice in site layout / 
+# Second ever practice
+Second* practice in site layout / 
 Used Scss and adaptive layout
 
 
